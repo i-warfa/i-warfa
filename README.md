@@ -37,10 +37,14 @@ A MEng Mechanical Engineering graduate with a strong interest in technology and 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/
 </div>
 
+# :fire: My Stats :
 
+![i-warfa's Stats](https://github-readme-stats.vercel.app/api?username=i-warfa&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![i-warfa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=i-warfa&theme=tokyonight&hide_border=true)
 
 
 <!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
